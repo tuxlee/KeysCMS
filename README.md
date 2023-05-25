@@ -6,9 +6,10 @@ In short, yes! Why? Because nothing exist for my "All in one" needs for creating
 I am a newly single father that got set back a bit when going through a rough divorce that is now a thing of the past. This project is going to be the heartbeat of how I make a living. I am going into this full time and broke!
 ## Features - TODO
 * Numerous Crypto Web Based and Mobile tools.
-* Internal API for wallet balance and transactions.
+* Internal API for wallet balance and transactions. ***YOUR OWN WALLET BALANCE API!!!!***
 * Website Pages & Custom Pages Builder - Drag and drop your way to your own custom blockchain explorer featured website.
 * Numerous Ways To Monetize.
+* Crypto Only Search Engine With Crawler/Indexer
 * Self Serve Advertising Platform.
 * Newsletter Management.
 * Feature Packed Admin Backend.
