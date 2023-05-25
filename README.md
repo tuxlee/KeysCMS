@@ -6,9 +6,13 @@ In short, yes! Why? Because nothing exist for my "All in one" needs for creating
 I am a newly single father that got set back a bit when going through a rough divorce that is now a thing of the past. This project is going to be the heartbeat of how I make a living. I am going into this full time and broke!
 ## Features - TODO
 * Numerous Crypto Web Based and Mobile tools.
-* Crypto Website widgets that you can place on remote domains as well as your own.
+* Crypto Website widgets and Tickers that you can place on remote domains as well as your own.
+* Code Snippets & Shortcodes
 * Multi-Site Features
 * Internal API for wallet balance and transactions. ***YOUR OWN WALLET BALANCE API!!!!***
+* Full API Management Panel that you can create new & custom endpoints with that tie into your DB's
+* Data retrievel features to allow you to acquire blockchain data WITHOUT needing a Full Node!
+* RPC API Node features if you choose to implement your own nodes.
 * Website Pages & Custom Pages Builder - Drag and drop your way to your own custom blockchain explorer featured website.
 * Numerous Ways To Monetize.
 * Crypto Only Search Engine With Crawler/Indexer
